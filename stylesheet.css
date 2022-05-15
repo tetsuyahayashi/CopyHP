@@ -13,11 +13,11 @@ header {
   border-bottom: 3px;
 }
 
-header-logo {
+.header-logo {
   
 }
 
-header-logo img {
+.header-logo img {
   height: 80px;
   width: 160px;
 }
