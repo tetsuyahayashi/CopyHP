@@ -6,9 +6,17 @@
 
 /* body */
 body {
-
+ margin: 0;
 }
 
-.top-container {
-  
+.cource-premium {
+  height: 400px;
+  width: 100%
+  color: lightin(brown 70%);
+}
+
+.cource-analysis {
+  height: 400px;
+  width: 100%
+  color: gold;
 }
