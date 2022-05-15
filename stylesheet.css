@@ -15,10 +15,10 @@ header {
 }
 
 header-logo {
-  
+  height: 80px;
+  width: 160px;
 }
 
 header-logo img {
-  height: 80px;
-  width: 160px;
+  
 }
