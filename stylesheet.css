@@ -13,10 +13,13 @@ body {
   width: 100%;
 }
 
+.cource-container {
+  margin: 0 auto;
+}
+
 .cource-premium,cource-analysis {
   height: 400px;
   width: 100%
-  margin: 0 auto;
 }
 
 .cource-premium {
