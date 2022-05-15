@@ -1,22 +1,12 @@
 /* 全体のデザイン */
 * {
   box-sizing: border-box;
+  max-width: 1170px;
 }
 
+/* body */
 
-/* ヘッダー */
-header {
-  height: 100px;
-  width: 100%;
-  color: white;
-  margin: 0 auto;
+body {
+  
 }
 
-.header-logo {
-    
-}
-
-.header-logo img {
-  height: 80px;
-  width: 160px;
-}
