@@ -9,16 +9,13 @@
 /* ヘッダー */
 header {
   height: 100px;
+  width: 100%;
   color: white;
 }
 
 .header-logo {
-  margin: 0 auto;
+  margin:0 auto;
   height: 80px;
   width: 160px;
 }
 
-.header-logo img {
-  height: 80px;
-  width: 160px;
-}
