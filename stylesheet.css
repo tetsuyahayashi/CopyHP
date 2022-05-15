@@ -1,12 +1,16 @@
 /* 全体のデザイン */
 * {
   box-sizing: border-box;
-  max-width: 1170px;
+  max-width: 100%;
 }
 
 /* body */
 body {
  margin: 0;
+}
+
+.top-container img {
+  width: 100%;
 }
 
 .cource-premium {
