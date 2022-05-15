@@ -16,7 +16,7 @@ body {
 .cource-premium,cource-analysis {
   height: 300px;
   width: 100%
-  text-align: center;
+  margin: 0 auto;
 }
 
 .cource-premium {
