@@ -9,10 +9,11 @@ header {
   height: 100px;
   width: 100%;
   color: white;
+  margin: 0 auto;
 }
 
 .header-logo {
   height: 80px;
   width: 160px;
-  margin: 0 auto;
+  
 }
