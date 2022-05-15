@@ -12,10 +12,11 @@ header {
 }
 
 .header-logo {
-  margin:0 auto;
+  height: 80px;
+  width: 160px;
+  margin: 0 auto;
 }
 
 .header-logo img {
-  height: 80px;
-  width: 160px;
+  
 }
