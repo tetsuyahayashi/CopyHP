@@ -12,7 +12,7 @@ header {
 }
 
 .header-logo {
-  margin: auto;
+  text-align: center;
 }
 
 .header-logo img {
