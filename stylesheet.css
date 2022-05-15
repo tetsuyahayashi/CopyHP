@@ -20,11 +20,11 @@ body {
 }
 
 .cource-premium {
-  color: lightin(brown 70%);
+  background-color: lightin(brown 70%);
 }
 
 .cource-analysis {
-  color: gold;
+  background-color: gold;
 }
 
 .image img{
