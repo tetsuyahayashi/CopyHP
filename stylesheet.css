@@ -13,20 +13,21 @@ body {
   width: 100%;
 }
 
-.cource-premium {
-  height: 400px;
+.cource-premium,cource-analysis {
+  height: 300px;
   width: 100%
+  text-align: center;
+}
+
+.cource-premium {
   color: lightin(brown 70%);
 }
 
 .cource-analysis {
-  height: 400px;
-  width: 100%
   color: gold;
 }
 
 .image img{
-  height: 300px;
+  height: 200px;
   width: 60%;
-  text-align: center;
 }
