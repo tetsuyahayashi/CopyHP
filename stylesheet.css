@@ -15,7 +15,9 @@ header {
 
 .header-logo {
   margin:0 auto;
+}
+
+.header-logo img {
   height: 80px;
   width: 160px;
 }
-
