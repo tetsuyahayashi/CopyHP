@@ -18,7 +18,7 @@ body {
 }
 
 .cource-premium,cource-analysis {
-  height: 400px;
+  height: 450px;
   width: 100%
 }
 
@@ -31,6 +31,6 @@ body {
 }
 
 .image img{
-  height: 200px;
-  width: 60%;
+  height: 180px;
+  width: 65%;
 }
