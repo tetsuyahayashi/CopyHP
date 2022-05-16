@@ -13,24 +13,24 @@ body {
   width: 100%;
 }
 
-.cource-container {
-  text-align: center;
-}
-
-.cource-premium,cource-analysis {
-  height: 450px;
-  width: 100%
-}
-
 .cource-premium {
-  background-color: brown;
+  height: 400px;
+  width: 100%
+  color: sandybrown;
 }
 
 .cource-analysis {
-  background-color: gold;
+  height: 400px;
+  width: 100%
+  color: gold;
 }
 
 .image img{
-  height: 180px;
-  width: 65%;
+  height: 300px;
+  width: 60%;
+  text-align: center;
+}
+
+.underground {
+   
 }
