@@ -20,12 +20,16 @@ body {
 .cource-premium {
   height: 300px;
   width: 100%;
+  text-align: center;
+  line-height: 50px;
   background-color: sandybrown;
 }
 
 .cource-analysis {
   height: 300px;
   width: 100%;
+  text-align: center;
+  line-height: 50px;
   background-color: gold;
 }
 
