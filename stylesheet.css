@@ -13,27 +13,31 @@ body {
   width: 100%;
 }
 
+.cource-container {
+  margin: 50px 0;
+}
+
 .cource-premium {
-  height: 400px;
+  height: 300px;
   width: 100%;
-  color: sandybrown;
+  background-color: sandybrown;
 }
 
 .cource-analysis {
-  height: 400px;
+  height: 300px;
   width: 100%;
-  color: gold;
+  background-color: gold;
 }
 
 .image img{
-  height: 300px;
+  height: 200px;
   width: 60%;
-  text-align: center;
 }
 
 .underground {
   height: 5000px;
   background-color: lightgoldenrodyellow;
+  margin: auto;
 }
 
 /* クーポンメニュー */
@@ -42,17 +46,16 @@ body {
   height: 1500px;
   width: 60%;
   background-color: white;
-  margin: 0 auto;
-  
 }
 
 .coupon-menu img {
-  height: 800px;
+  height: 400px;
+  width: 200px;
   padding: 100px 50px;
 }
 
 .coupon-btn {
-  height: 400px;
+  height: 200px;
   width: 60%;
   background-color: white;
 }
@@ -70,6 +73,7 @@ body {
 
 .reserve:hover {
   opacity: 0.7;
+  transition: all 1s;
 }
 
 .menu {
@@ -83,16 +87,16 @@ body {
 }
 
 .right-arrow {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   border: 5px solid;
   border-color: black black transparent transparent;
   transform: rotate(45deg);
 }
 
 .bottom-arrow {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   border: 5px solid;
   border-color: transparent black black transparent;
   transform: rotate(45deg);
