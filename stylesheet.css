@@ -50,6 +50,9 @@ body {
 }
 
 .coupon-container {
+  height: 1000px;
+  width: 60%;
+  background-color: white;
   margin: 0 auto;
 }
 
@@ -58,10 +61,7 @@ body {
 }
 
 .coupon-menu {
-  height: 1000px;
-  width: 60%;
-  background-color: white;
-  margin: 0 auto;
+  
 }
 
 .coupon-menu img {
