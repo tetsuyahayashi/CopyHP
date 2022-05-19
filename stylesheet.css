@@ -38,21 +38,30 @@ body {
   line-height: 50px;
 }
 
+/* クーポンメニュー */
 .underground {
   height: 3000px;
   background-color: lightgoldenrodyellow;
   margin: 0 auto;
 }
 
-/* クーポンメニュー */
+.cource-coupon {
+
+}
+
 .coupon-container {
   margin: 0 auto;
+}
+
+.coupon-title {
+
 }
 
 .coupon-menu {
   height: 1000px;
   width: 60%;
   background-color: white;
+  margin: 0 auto;
 }
 
 .coupon-menu img {
