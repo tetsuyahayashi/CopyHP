@@ -21,7 +21,6 @@ body {
   height: 300px;
   width: 100%;
   text-align: center;
-  line-height: 50px;
   background-color: sandybrown;
 }
 
@@ -29,7 +28,6 @@ body {
   height: 300px;
   width: 100%;
   text-align: center;
-  line-height: 50px;
   background-color: gold;
 }
 
@@ -41,22 +39,25 @@ body {
 }
 
 .underground {
-  height: 5000px;
+  height: 3000px;
   background-color: lightgoldenrodyellow;
   margin: 0 auto;
 }
 
 /* クーポンメニュー */
+.coupon-container {
+  margin: 0 auto;
+}
 
 .coupon-menu {
-  height: 1500px;
+  height: 1000px;
   width: 60%;
   background-color: white;
 }
 
 .coupon-menu img {
-  height: 400px;
-  width: 200px;
+  height: 600px;
+  width: 400px;
   padding: 100px 50px;
 }
 
@@ -64,11 +65,12 @@ body {
   height: 200px;
   width: 60%;
   background-color: white;
+  float: left;
+  text-align: center;
 }
 
 .coupon-btn btn {
-  height: 200px;
-  width: 800px;
+  padding: 100px 400px;
   border-radius: 10px;
 }
 
@@ -106,4 +108,9 @@ body {
   border: 5px solid;
   border-color: transparent black black transparent;
   transform: rotate(45deg);
+}
+
+/* コロナ対策 */
+.covid-container {
+  margin: 0 auto;
 }
