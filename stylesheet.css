@@ -18,30 +18,38 @@ body {
 }
 
 .cource-premium {
-  height: 300px;
+  height: 220px;
   width: 100%;
   text-align: center;
   background-color: sandybrown;
 }
 
 .cource-analysis {
-  height: 300px;
+  height: 180px;
   width: 100%;
   text-align: center;
   background-color: gold;
 }
 
-.image img{
-  height: 200px;
+.premium img{
+  height: 160px;
   width: 60%;
   text-align: center;
-  line-height: 50px;
+  line-height: 30px;
+}
+
+.analysis img {
+  height: 130px;
+  width: 60%;
+  text-align: center;
+  line-height: 25px;
 }
 
 /* クーポンメニュー */
 .underground {
   height: 3000px;
   background-color: lightgoldenrodyellow;
+  margin-top: 80px;
   margin: 0 auto;
 }
 
@@ -93,7 +101,7 @@ body {
 }
 
 .reserve span {
-    
+  transform: rotate(90deg);    
 }
 
 .menu {
@@ -103,7 +111,7 @@ body {
 }
 
 .menu:hover {
-  transform: rotate(90deg);
+
 }
 
 .right-arrow {
@@ -120,6 +128,12 @@ body {
   border: 5px solid;
   border-color: transparent black black transparent;
   transform: rotate(45deg);
+}
+
+.coupon-text p {
+  font-size: 10px;
+  wodth: 80%;
+  margin: 0 auto;
 }
 
 /* コロナ対策 */
