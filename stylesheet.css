@@ -35,7 +35,8 @@ body {
   height: 160px;
   width: 60%;
   text-align: center;
-  position: center;
+  display: inlineblock;
+  line-height: 20px;
 }
 
 .analysis img {
@@ -43,6 +44,8 @@ body {
   width: 60%;
   text-align: center;
   position: center;
+  display: inlineblock;
+  line-height: 20px;
 }
 
 /* クーポンメニュー */
