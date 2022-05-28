@@ -172,8 +172,44 @@ body {
 }
 
 /* コロナ対策 */
+.covid {
+ height: 1000px;
+ width: 60%;
+ margin: 0 auto;
+}
+
 .covid-container {
-  height: 1000px;
-  width: 60%;
+  
+}
+
+.covi19-title {
+  padding: 50px 0;
   margin: 0 auto;
+  text-align: center;
+}
+
+.covi19-title img {
+  height: 100px;
+  width: 600px;
+}
+
+.covi19-measures {
+  width: 16%;
+  padding-bottom: 50px; 
+}
+
+.covi19-measures img {
+  height: 150px;
+  width: 150px;
+}
+
+.covi19-salon {
+  height: 400px;
+  width: 100%
+  color: white;
+  padding: 50px;
+}
+
+.covi19-supervision {
+  
 }
