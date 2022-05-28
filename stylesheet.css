@@ -57,7 +57,7 @@ body {
 
 .cource-coupon {
   height: 1000px;
-  margin-top: 100px;
+  padding-top: 100px;
 }
 
 .coupon-container {
@@ -74,13 +74,15 @@ body {
 }
 
 .coupon-menu {
-  padding: 30px 15px;
-  margin: 0 auto;
+  padding: 30px 20px;
+  width: 33%;
+  float: left;
 }
 
 .coupon-menu img {
   height: 250px;
   width: 200px;
+  margin: 0 auto;
 }
 
 .coupon-btn {
@@ -146,7 +148,7 @@ body {
 .coupon-text p {
   font-size: 15px;
   width: 80%;
-  margin: 0 auto;
+  text-align: center;
 }
 
 /* コロナ対策 */
