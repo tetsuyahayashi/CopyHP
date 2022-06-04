@@ -75,25 +75,31 @@ body {
 }
 
 .coupon-title {
+  position: relative;
   height: 150px;
   width: 100%;
   background-color: burlywood;
-  margin: 0 auto;
 }
 
 .coupon-title img {
-  display: inline-block;
-  line-height: 10px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 80%;
+  height: 120px;
 }
 
 .coupon-menu {
   padding: 30px 20px;
+  width: 30%;
 }
 
 .coupon-menu img {
   height: 250px;
   width: 200px;
-  margin: 0 auto;
 }
 
 .coupon-btn {
@@ -111,6 +117,10 @@ body {
 .reserve-container {
   height: 55px;
   width: 260px;
+}
+
+.reserve-btn {
+  width: 50%;
 }
 
 .reserve {
@@ -142,6 +152,10 @@ body {
 .menu-container {
   height: 55px;
   width: 260px;
+}
+
+.menu-btn {
+  width: 50%;
 }
 
 .menu {
