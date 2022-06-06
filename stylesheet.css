@@ -94,7 +94,7 @@ body {
 
 .coupon-menu {
   padding: 30px 20px;
-  width: 30%;
+  
 }
 
 .coupon-menu img {
@@ -111,16 +111,12 @@ body {
 
 .coupon-height {
   height: 55px;
-  width: 100%;
+  width: 50%;
 }
 
 .reserve-container {
   height: 55px;
   width: 260px;
-}
-
-.reserve-btn {
-  width: 50%;
 }
 
 .reserve {
@@ -152,10 +148,6 @@ body {
 .menu-container {
   height: 55px;
   width: 260px;
-}
-
-.menu-btn {
-  width: 50%;
 }
 
 .menu {
@@ -204,7 +196,7 @@ body {
 }
 
 .covid-container {
-  
+ text-align: center; 
 }
 
 .covi19-title {
